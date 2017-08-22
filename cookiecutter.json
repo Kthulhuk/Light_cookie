@@ -1,0 +1,14 @@
+{
+    	"full_name": "JH",
+    	"email": "jean-hieu.huynh -at- ensea.fr",
+    	"project_name": "Project_42",
+    	"project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_') }}",
+    	"project_short_description": "A short description of the project",
+    	"version": "0.0.0",
+	"open_source_license": ["Not open source", "MIT license", "BSD license",
+				"ISC license", "Apache Software License 2.0",
+				"GNU General Public License v3",
+				"GNU Affero General Public License v3",
+				"GNU Lesser General Public License v3"],
+    	"_extensions": ["jinja2_time.TimeExtension"]
+}
