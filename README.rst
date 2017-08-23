@@ -14,7 +14,7 @@ Usage
 -----
 Generate a new Cookiecutter template layout:
 
-    $ cookiecutter http://gitlab.lan/C3NRD/Software_template
+    $ cookiecutter http://github.com/Kthulhuk/Light_cookie
 
 License
 -------
